@@ -1,0 +1,6 @@
+{
+  "name": "AVANGERS BLACK",
+  "description": "Jeu d'aventure, de survie et d'énigmes 3D immersif où vous créez votre personnage et façonnez votre propre histoire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
